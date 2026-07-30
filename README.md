@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
