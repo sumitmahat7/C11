@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sumitmahat7/C11/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
