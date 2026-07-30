@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
