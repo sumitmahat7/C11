@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sumitmahat7/C11/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumitmahat7/C11/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumitmahat7/C11/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sumitmahat7/C11/tree/master/0007-reverse-integer) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumitmahat7/C11/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
