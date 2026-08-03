@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitmahat7/C11/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/sumitmahat7/C11/tree/master/0016-3sum-closest) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sumitmahat7/C11/tree/master/0016-3sum-closest) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Recursion
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/sumitmahat7/C11/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
