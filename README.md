@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitmahat7/C11/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
