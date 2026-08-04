@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumitmahat7/C11/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitmahat7/C11/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumitmahat7/C11/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sumitmahat7/C11/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumitmahat7/C11/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sumitmahat7/C11/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitmahat7/C11/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sumitmahat7/C11/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Binary Search
 |  |
 | ------- |
