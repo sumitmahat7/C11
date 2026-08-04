@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sumitmahat7/C11/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumitmahat7/C11/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sumitmahat7/C11/tree/master/0031-next-permutation) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitmahat7/C11/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumitmahat7/C11/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sumitmahat7/C11/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
