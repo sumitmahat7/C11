@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumitmahat7/C11/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sumitmahat7/C11/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sumitmahat7/C11/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumitmahat7/C11/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sumitmahat7/C11/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sumitmahat7/C11/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sumitmahat7/C11/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitmahat7/C11/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 ## Sorting
 |  |
@@ -156,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumitmahat7/C11/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
