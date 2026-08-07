@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sumitmahat7/C11/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sumitmahat7/C11/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumitmahat7/C11/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumitmahat7/C11/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
