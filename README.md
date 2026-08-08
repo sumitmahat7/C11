@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumitmahat7/C11/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitmahat7/C11/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitmahat7/C11/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 ## Sorting
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
