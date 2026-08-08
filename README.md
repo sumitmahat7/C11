@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sumitmahat7/C11/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumitmahat7/C11/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Recursion
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
