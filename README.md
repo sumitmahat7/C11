@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumitmahat7/C11/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumitmahat7/C11/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sumitmahat7/C11/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
