@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sumitmahat7/C11/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sumitmahat7/C11/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/sumitmahat7/C11/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
