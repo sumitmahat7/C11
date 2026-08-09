@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sumitmahat7/C11/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitmahat7/C11/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumitmahat7/C11/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/sumitmahat7/C11/tree/master/0060-permutation-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sumitmahat7/C11/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/sumitmahat7/C11/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
