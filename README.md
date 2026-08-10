@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sumitmahat7/C11/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sumitmahat7/C11/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sumitmahat7/C11/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/sumitmahat7/C11/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -212,8 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumitmahat7/C11/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sumitmahat7/C11/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
