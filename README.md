@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitmahat7/C11/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sumitmahat7/C11/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sumitmahat7/C11/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sumitmahat7/C11/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/sumitmahat7/C11/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sumitmahat7/C11/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sumitmahat7/C11/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
