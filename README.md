@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sumitmahat7/C11/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumitmahat7/C11/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sumitmahat7/C11/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sumitmahat7/C11/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Bracket Sequences
 |  |
 | ------- |
