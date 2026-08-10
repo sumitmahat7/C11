@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/sumitmahat7/C11/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sumitmahat7/C11/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sumitmahat7/C11/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sumitmahat7/C11/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sumitmahat7/C11/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sumitmahat7/C11/tree/master/0078-subsets) |
 ## Newton's Method
 |  |
 | ------- |
