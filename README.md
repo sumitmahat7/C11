@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumitmahat7/C11/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sumitmahat7/C11/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sumitmahat7/C11/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
