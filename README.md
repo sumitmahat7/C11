@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/sumitmahat7/C11/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sumitmahat7/C11/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sumitmahat7/C11/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Recursion
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sumitmahat7/C11/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sumitmahat7/C11/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sumitmahat7/C11/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
