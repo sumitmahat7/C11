@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/sumitmahat7/C11/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sumitmahat7/C11/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/sumitmahat7/C11/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
