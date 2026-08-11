@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sumitmahat7/C11/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sumitmahat7/C11/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sumitmahat7/C11/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sumitmahat7/C11/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sumitmahat7/C11/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sumitmahat7/C11/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 ## Newton's Method
 |  |
 | ------- |
