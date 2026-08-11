@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumitmahat7/C11/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sumitmahat7/C11/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitmahat7/C11/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sumitmahat7/C11/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sumitmahat7/C11/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 ## Sorting
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sumitmahat7/C11/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitmahat7/C11/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitmahat7/C11/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitmahat7/C11/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
