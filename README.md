@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sumitmahat7/C11/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitmahat7/C11/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumitmahat7/C11/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/sumitmahat7/C11/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0088-merge-sorted-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Recursion
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumitmahat7/C11/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/sumitmahat7/C11/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
