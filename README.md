@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sumitmahat7/C11/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/sumitmahat7/C11/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/sumitmahat7/C11/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sumitmahat7/C11/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sumitmahat7/C11/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/sumitmahat7/C11/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
