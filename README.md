@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sumitmahat7/C11/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/sumitmahat7/C11/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Hash Table
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sumitmahat7/C11/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sumitmahat7/C11/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitmahat7/C11/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
