@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sumitmahat7/C11/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/sumitmahat7/C11/tree/master/0136-single-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sumitmahat7/C11/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sumitmahat7/C11/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sumitmahat7/C11/tree/master/0136-single-number) |
 ## Newton's Method
 |  |
 | ------- |
