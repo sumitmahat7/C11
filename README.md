@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sumitmahat7/C11/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/sumitmahat7/C11/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sumitmahat7/C11/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sumitmahat7/C11/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumitmahat7/C11/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/sumitmahat7/C11/tree/master/0138-copy-list-with-random-pointer) |
 ## Bracket Sequences
 |  |
 | ------- |
