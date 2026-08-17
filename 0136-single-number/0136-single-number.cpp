@@ -1,8 +1,10 @@
-class Solution
-{
+class Solution {
 public:
-    int singleNumber(vector<int> &nums)
-    {
-        return accumulate(nums.begin(), nums.end(), 0, bit_xor<int>());
+    int singleNumber(vector<int>& nums) {
+        int index = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            index = index ^ nums[i];
+        }
+        return index;
     }
 };
