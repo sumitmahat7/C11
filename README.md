@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sumitmahat7/C11/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/sumitmahat7/C11/tree/master/0135-candy) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sumitmahat7/C11/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sumitmahat7/C11/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumitmahat7/C11/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sumitmahat7/C11/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
