@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/sumitmahat7/C11/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sumitmahat7/C11/tree/master/0152-maximum-product-subarray) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/sumitmahat7/C11/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitmahat7/C11/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/sumitmahat7/C11/tree/master/0152-maximum-product-subarray) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
 |  |
