@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitmahat7/C11/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sumitmahat7/C11/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sumitmahat7/C11/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitmahat7/C11/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sumitmahat7/C11/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0144-binary-tree-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
