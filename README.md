@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sumitmahat7/C11/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/sumitmahat7/C11/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumitmahat7/C11/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumitmahat7/C11/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sumitmahat7/C11/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumitmahat7/C11/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
