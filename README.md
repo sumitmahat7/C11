@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumitmahat7/C11/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sumitmahat7/C11/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Recursion
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitmahat7/C11/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sumitmahat7/C11/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumitmahat7/C11/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sumitmahat7/C11/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/sumitmahat7/C11/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumitmahat7/C11/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
