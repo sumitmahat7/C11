@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumitmahat7/C11/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumitmahat7/C11/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/sumitmahat7/C11/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sumitmahat7/C11/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitmahat7/C11/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitmahat7/C11/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sumitmahat7/C11/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumitmahat7/C11/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/sumitmahat7/C11/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitmahat7/C11/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
