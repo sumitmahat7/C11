@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sumitmahat7/C11/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitmahat7/C11/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/sumitmahat7/C11/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Tree
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sumitmahat7/C11/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sumitmahat7/C11/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/sumitmahat7/C11/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sumitmahat7/C11/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sumitmahat7/C11/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sumitmahat7/C11/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
 |  |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumitmahat7/C11/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -349,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/sumitmahat7/C11/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumitmahat7/C11/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
