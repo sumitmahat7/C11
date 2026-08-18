@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sumitmahat7/C11/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/sumitmahat7/C11/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/sumitmahat7/C11/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/sumitmahat7/C11/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sumitmahat7/C11/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/sumitmahat7/C11/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
