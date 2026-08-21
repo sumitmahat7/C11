@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitmahat7/C11/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/sumitmahat7/C11/tree/master/0155-min-stack) |
 ## Sliding Window
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sumitmahat7/C11/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/sumitmahat7/C11/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
