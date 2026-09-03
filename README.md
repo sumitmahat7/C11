@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/sumitmahat7/C11/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sumitmahat7/C11/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sumitmahat7/C11/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
