@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitmahat7/C11/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sumitmahat7/C11/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/sumitmahat7/C11/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sumitmahat7/C11/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sumitmahat7/C11/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sumitmahat7/C11/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/sumitmahat7/C11/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sumitmahat7/C11/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Newton's Method
 |  |
