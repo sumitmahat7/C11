@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitmahat7/C11/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/sumitmahat7/C11/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sumitmahat7/C11/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/sumitmahat7/C11/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/sumitmahat7/C11/tree/master/0275-h-index-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/sumitmahat7/C11/tree/master/2463-minimum-total-distance-traveled) |
 ## Union-Find
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sumitmahat7/C11/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sumitmahat7/C11/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sumitmahat7/C11/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sumitmahat7/C11/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumitmahat7/C11/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sumitmahat7/C11/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sumitmahat7/C11/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitmahat7/C11/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sumitmahat7/C11/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumitmahat7/C11/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/sumitmahat7/C11/tree/master/0273-integer-to-english-words) |
 ## Linked List
